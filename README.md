@@ -24,5 +24,3 @@ Using Jupyter Notebook, Python, and the Pandas library, I analyzed PyCity School
    - As a whole, smaller and medium sized schools dramatically out-performed large sized schools on passing math performances (89-91% passing vs 67%).
 
    - As a whole, charter schools out-performed the public district schools across all metrics. However, more analysis will be required to glean if the effect is due to      school practices or the fact that charter schools tend to serve smaller student populations per school.
-   
-   - Thomas High School had the highest overall passing rates 
